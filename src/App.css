@@ -1,0 +1,19 @@
+.app-container {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(241, 241, 241);
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+.mint-form {
+  width: 400px;
+}
+
+.mint-form-subname {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}

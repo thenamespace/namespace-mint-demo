@@ -1,0 +1,1 @@
+React SPA application which is part of a demo on docs.namespace.tech
